@@ -46,11 +46,3 @@ class FileReader:
         blocks = self.load_questions()
         return self.block_questions(blocks)
 
-
-file_reader = FileReader()
-questions = file_reader.read_and_process()
-for question, options, correct_answer in questions:
-    print(f"Question: {question}")
-    print(f"Options: {options}")
-    print(f"Correct Answer: {correct_answer}")
-
