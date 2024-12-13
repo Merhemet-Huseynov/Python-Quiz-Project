@@ -1,0 +1,78 @@
+1. Which data type in Python represents whole numbers?  
+A) `float`  
+B) `str`  
+C) `int`  
+D) `bool`  
+Answer: C
+
+
+2. Which loops are used in Python?  
+A) `for` and `while`  
+B) `loop` and `foreach`  
+C) `iterate` and `repeat`  
+D) `while` and `foreach`  
+Answer: A
+
+
+3. What does the `len()` function do in Python?  
+A) Determines the type of data.  
+B) Returns the number of elements in a list.  
+C) Creates a new variable.  
+D) Converts data to lowercase.  
+Answer: B
+
+
+4. What is a `list` in Python?  
+A) Just a type of variable.  
+B) A function call.  
+C) A sequence of elements.  
+D) A name for different variables.  
+Answer: C
+
+
+5. Which method is used in Python to convert strings to lowercase?  
+A) `lower()`  
+B) `capitalize()`  
+C) `title()`  
+D) `smallcase()`  
+Answer: A
+
+
+6. Which operator is associated with "lazy" evaluation in Python?  
+A) `and` and `or`  
+B) `if` and `else`  
+C) `try` and `except`  
+D) `is` and `not`  
+Answer: A
+
+
+7. Which Python library is used for data analysis?  
+A) `os`  
+B) `pandas`  
+C) `sys`  
+D) `random`  
+Answer: B 
+
+
+8. What is the `def` keyword used for in Python?  
+A) To define classes.  
+B) To define functions.  
+C) To declare variables.  
+D) To create new modules.  
+Answer: B
+
+
+9. Which function is used to open a file in Python?  
+A) `read()`  
+B) `open()`  
+C) `file()`  
+D) `write()`  
+Answer: B
+
+
+10. What is the purpose of the `try...except` block in Python?  
+A) To read data.  
+B) To speed up the program.  
+C) To handle errors.  
+D) To create functions.  
+Answer: C
